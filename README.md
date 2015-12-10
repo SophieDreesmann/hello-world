@@ -1,3 +1,3 @@
 # hello-world
 
-Excited to start Working in GitHUb!
+Excited to start Working in GitHub!
